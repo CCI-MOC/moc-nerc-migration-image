@@ -1,4 +1,4 @@
-Scripts to build the moc-nerg-migration image for OpenStack volume migrations.
+Scripts to build the moc-nerc-migration image for OpenStack volume migrations.
 
 To build the image:
 
